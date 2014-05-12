@@ -24,6 +24,7 @@ public class De100a0 {
                     System.out.println(num);
                     num--;
         }
+        System.out.println("Finish time");
         
         
         
